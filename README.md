@@ -1,5 +1,8 @@
-# Computer Engineering Student
+<h3 align="center">
+  <img src="https://github.com/Keyitdev/sddm-astronaut-theme/blob/master/Backgrounds/pixel_sakura.gif" />
+</h3>
 
+# Computer Engineering Student
 
 I am a computer engineering student who is passionate about space, rockets, aerospace engineering and AI.
 I am founder of my school's space club and team captain of our rocket team.
