@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/idilsincer/idilsincer/blob/main/astronot.gif" />
+  <img src="https://github.com/idilsincer/idilsincer/blob/main/astronot_banner_1080x560.gif" />
 </h3>
 
 # Computer Engineering Student
