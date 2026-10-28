@@ -4,8 +4,13 @@
 
 # Computer Engineering Student
 
-I am a computer engineering student who is passionate about space, rockets, aerospace engineering and AI.
-I am founder of my school's space club and team captain of our rocket team.
+Computer Engineering student with a strong foundation in space, satellite systems, software
+development, data structures, and computer systems. Experienced in developing software through
+academic and personal projects, with skills in programming, debugging, and problem solving.
+Motivated to apply technical knowledge to real-world challenges while continuously learning new
+technologies. Seeking internship opportunities to gain industry experience and contribute to software
+development teams.
+
 
 ---
 
