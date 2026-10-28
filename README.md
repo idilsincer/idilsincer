@@ -2,7 +2,7 @@
   <img src="https://github.com/idilsincer/idilsincer/blob/main/astronot_banner_1080x560.gif" />
 </h3>
 
-# Computer Engineering Student
+# About Me
 
 Computer Engineering student with a strong foundation in space, satellite systems, software
 development, data structures, and computer systems. Experienced in developing software through
@@ -11,11 +11,6 @@ Motivated to apply technical knowledge to real-world challenges while continuous
 technologies. Seeking internship opportunities to gain industry experience and contribute to software
 development teams.
 
-
----
-
-### 🚀 About Me
-My mission is to become a skilled programmer and the first Turkish woman astronaut. I'm passionate about helping others understand data structures, computer systems, and programming. I aspire to build rockets, satellites, and contribute to space exploration. My interests span hardware development and artificial intelligence.
 
 ---
 
