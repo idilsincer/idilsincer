@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/Keyitdev/sddm-astronaut-theme/blob/master/Backgrounds/pixel_sakura.gif" />
+  <img src="https://github.com/idilsincer/idilsincer/blob/main/astronot.gif" />
 </h3>
 
 # Computer Engineering Student
